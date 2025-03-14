@@ -3,7 +3,7 @@
 /**** (C) Copyright IBM Corp. 2011, 2021                         ****/
 /****                                                            ****/
 
-PDSMEMin  = 'APP.GENAPP.CNTL'
+PDSMEMin  = 'IBMUSER.GENAPP.CNTL'
 CICSHLQ   = 'DFH620.CICS'    
 CPSMHLQ   = 'DFH620.CPSM'    
 CICSLIC   = 'DFH620'         
